@@ -40,11 +40,6 @@ These figures were checked against the data inside the workbook.
 
 Profit Margin %, Discount Tier, Loss Order Flag and Loss Order Rate, Product Profit Status, City Profit Status, Discount Profit Status, Days to Ship.
 
-## Limits
-
-- The data is a sample dataset for a fictional company, so the findings are about the method, not a real business.
-- Loss Order Rate counts order lines (10,194), not unique orders (5,111).
-- Margins are calculated as total profit divided by total sales for each group, not as an average of individual margins.
 
 ## Open it
 
